@@ -46,7 +46,7 @@
     "javascript-detect-element-resize": "^0.5.3",
     "jquery": "^3.3.1",
     "jquery-selectric": "^0.2.0",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.0",
     "jquery-ui-dist": "^1.12.1",
     "jquery-validation": "^1.19.2",
     "rimraf": "^3.0.2",
